@@ -1,0 +1,22 @@
+body {
+
+	background: url(../images/main-bg.jpg);
+    background-size: cover;
+	background-position: center 30%;
+    background-repeat: no-repeat;
+	font-family: 'Inconsolata', monospace;
+	}
+
+#main-nav {
+	background-color: rgb(0, 0, 0);opacity: 0.3;
+	border-radius: 0;
+	border: 0;
+	height: 150px;
+}
+
+#logo-img {
+  background: url("../images/logo.svg") no-repeat;
+  width: 100px;
+  height: 100px;
+  background-size: contain;
+}
